@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Terminal=false
+Icon=/home/irekp/.local/share/tbcselect/tbcselect.svg
+Icon[en_GB]=/home/irekp/.local/share/tbcselect/tbcselect.svg
+Name[en_GB]=TBCSelect
+Exec=/home/irekp/.local/bin/tbcselect.sh
+Name=TBCSelect
+GenericName[en_GB]=TBCSelect
+Comment[en_GB]=TBCSelect let you select exit countries for your Tor Browser
