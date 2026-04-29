@@ -49,7 +49,7 @@ sudo make install
 
 ### Build Yad .deb package using Docker
 
-At the end of this process, you will get Yad .deb package which you will install on your system (my preferred one).
+At the end of this process, you will get Yad .deb package which you will install on your system (my preferred method).
 
 1. Install Docker if you don't have it
 2. Find version/codename of your system.
