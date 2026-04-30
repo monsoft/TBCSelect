@@ -2,7 +2,7 @@
     <img src="tbcselect.svg" width="30%">
 </p>
 
-# TBCSelector
+# TBCSelect
 
 I really created this small script for myself as I was tired of editing Tor Browser files manually, but since it works, I decided to add few things to it and share.
 
