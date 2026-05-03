@@ -72,6 +72,7 @@ DISTRIB_DESCRIPTION="Ubuntu Noble Numbat"
 In this situation (mine situation) base Ubuntu system have version 24.04 and its codename is noble
 
 3. Run building Yad .deb package
+
 To make this process painless I created bash script which will build Yad .deb package inside Docker container.
 
 ```
