@@ -10,7 +10,7 @@ This scripts allow in simple way to choose exit nodes (countries) you would like
 
 ## Requirements 
 
-Main requirements to run this script is Linux with Graphics environment, bash and [Yad](https://yad-guide.ingk.se/). If you run Linux Debian, Ubuntu or systems based on one of these distributions (like Linux Mint), you will have to install newer version of Yad as this one available in repositories is old ( 0.40.0-1 or 7.2-1) and not all functions will work. I recommend to use version 14.2 which can be downloaded from Yad GitHub repository https://github.com/v1cont/yad.
+Main requirements to run this script are Linux with Graphics environment, bash and [Yad](https://yad-guide.ingk.se/). If you run Linux Debian, Ubuntu or systems based on one of these distributions (like Linux Mint), you will have to install newer version of Yad as this one available in repositories is old ( 0.40.0-1 or 7.2-1) and not all functions will work. I recommend to use version 14.2 which can be downloaded from Yad GitHub repository https://github.com/v1cont/yad.
 
 ## Installation
 
